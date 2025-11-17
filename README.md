@@ -42,6 +42,6 @@ def main():
             print("Opção inválida!")
         input("Pressione ENTER para continuar...")
         
-if __name__ == "__main__":
+if __name__ ==
     main()
 
