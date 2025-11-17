@@ -44,5 +44,5 @@ def banner():
                                                                                                                                                                                                                                                      print("Opção inválida!")
                                                                                                                                                                                                                                                              input("Pressione ENTER para continuar...")
 
-                                                                                                                                                                                                                                                             if __name__ == 
+                                                                                                                                                                                                                                         
                                                                                                                                                                                                                                                                  main()# NmapAlienTech.py
