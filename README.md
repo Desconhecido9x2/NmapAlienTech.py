@@ -1,4 +1,4 @@
-# NmapAlienTech.py
+9# NmapAlienTech.py
 
 import subprocess
 
@@ -44,5 +44,5 @@ def banner():
                                                                                                                                                                                                                                                      print("Opção inválida!")
                                                                                                                                                                                                                                                              input("Pressione ENTER para continuar...")
 
-                                                                                                                                                                                                                                                             if __name__ == "__main__":
+                                                                                                                                                                                                                                                             if __name__ == 
                                                                                                                                                                                                                                                                  main()# NmapAlienTech.py
